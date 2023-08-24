@@ -23,17 +23,18 @@ In order to further improve myself in React, I follow Adrian Hajdin's YouTube tu
 ![gericht_restaurant_gallery](https://github.com/Mara1395/Gericht-restaurant/assets/104097778/2ccae7dc-6cd2-4497-9f71-81f365d5ddf7) 
  ### Getting Started
 Available Scripts:
+<br>
 require "npm start"
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in your browser.
 
 The page will reload when you make changes.
 You may also see any lint errors in the console.
-
+<br>
 npm test
 Launches the test runner in the interactive watch mode.
 See the section about running tests for more information.
-
+<br>
 npm run build
 Builds the app for production to the build folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
