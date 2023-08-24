@@ -6,7 +6,7 @@ This is a modern restaurant website built according to a template in Figma Desig
 
 
 
-## 🗒 Introduction
+## 📄 Introduction
 
 In order to further improve myself in React, I follow Adrian Hajdin's YouTube tutorials. Some of my repositories will be projects that I created according to the tutorial.
 
