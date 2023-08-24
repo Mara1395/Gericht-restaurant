@@ -23,7 +23,7 @@ In order to further improve myself in React, I follow Adrian Hajdin's YouTube tu
 ![gericht_restaurant_gallery](https://github.com/Mara1395/Gericht-restaurant/assets/104097778/2ccae7dc-6cd2-4497-9f71-81f365d5ddf7) 
  ### Getting Started
 Available Scripts:
-<a>npm start</a>
+<a href="#">npm start</a>
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in your browser.
 
