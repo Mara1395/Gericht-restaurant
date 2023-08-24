@@ -9,15 +9,15 @@ This is a modern restaurant website built according to a template in figma desig
 
 In order to further improve myself in React, I follow Adrian Hajdin's YouTube tutorials. Some of my repositories will be projects that I created according to the tutorial.
 
-Through this project I learned:
--&nbsp;React Functional components and their reusability
+<h3>Through this project I learned:</h3>
+  -&nbsp; React Functional components and their reusability
   
-  2. React file and folder structure
+  -&nbsp; React file and folder structure
   
-  3. Fundamental CSS properties to master flex & grid
-  -Fundamentals of the CSS BEM Model
-  -From soft and pleasant animations to complex gradients
-  +Perfectly placed media queries for satisfactory responsiveness covering almost devices
-  -And at the end you'll learn how to deploy your websites to extremely fast servers and give them a custom domain name.
+  -&nbsp; Fundamental CSS properties to master flex & grid
+  -&nbsp; Fundamentals of the CSS BEM Model
+  -&nbsp; From soft and pleasant animations to complex gradients
+  -&nbsp; Perfectly placed media queries for satisfactory responsiveness covering almost devices
+  -&nbsp; And at the end you'll learn how to deploy your websites to extremely fast servers and give them a custom domain name.
 
 
