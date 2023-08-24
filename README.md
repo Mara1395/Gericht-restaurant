@@ -26,12 +26,12 @@ In order to further improve myself in React, I follow Adrian Hajdin's YouTube tu
 
 
 ### License i Credits
-Setup provided by JavaScript Mastery.
+Setup provided by [JavaScript Mastery](https://github.com/adrianhajdin/).
 
 ### Contact
 Contact me on the links below:
 * [Gmail]()
-* [Linkedin](https://www.linkedin.com/in/saim-qureshi-703060234?original_referer=https%3A%2F%2Fsaimcode.github.io%2F)
+* [Linkedin](https://www.linkedin.com/in/marija-jel%C4%8Di%C4%87-1b958a24a)
 
 
 
