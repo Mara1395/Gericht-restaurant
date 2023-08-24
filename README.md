@@ -11,9 +11,7 @@ In order to further improve myself in React, I follow Adrian Hajdin's YouTube tu
 
 <h3>Through this project I learned:</h3>
   -&nbsp; React Functional components and their reusability
-  
   -&nbsp; React file and folder structure
-  
   -&nbsp; Fundamental CSS properties to master flex & grid
   -&nbsp; Fundamentals of the CSS BEM Model
   -&nbsp; From soft and pleasant animations to complex gradients
