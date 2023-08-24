@@ -30,7 +30,7 @@ Setup provided by [JavaScript Mastery](https://github.com/adrianhajdin/).
 
 ### Contact
 Contact me on the links below:
-* [Gmail]()
+* [Gmail](mailto: jelcic.marija@gmail.com)
 * [Linkedin](https://www.linkedin.com/in/marija-jel%C4%8Di%C4%87-1b958a24a)
 
 
