@@ -1,4 +1,4 @@
-# Restaurant Landing Page
+![gericht_restaurant_chef](https://github.com/Mara1395/Gericht-restaurant/assets/104097778/f21c763b-486f-4263-8891-9f91abfe2f5f)# Restaurant Landing Page
 
 This is a modern restaurant website built according to a template in figma design. This page was created using react js and tailwind css. 
 
@@ -59,6 +59,15 @@ Contact me on the links below:
 * [Gmail](jelcic.marija@gmail.com)
 * [Linkedin](https://www.linkedin.com/in/marija-jel%C4%8Di%C4%87-1b958a24a)
 
+  
+
+
+
+
+
+
+
+https://github.com/Mara1395/Gericht-restaurant/assets/104097778/1e9ad602-8eb4-40df-bb47-66e5aaf139f3
 
 
 
