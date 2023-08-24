@@ -23,18 +23,18 @@ In order to further improve myself in React, I follow Adrian Hajdin's YouTube tu
 ![gericht_restaurant_gallery](https://github.com/Mara1395/Gericht-restaurant/assets/104097778/2ccae7dc-6cd2-4497-9f71-81f365d5ddf7) 
  ### Getting Started
 Available Scripts:
-npm start
+<a>npm start</a>
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in your browser.
 
 The page will reload when you make changes.
 You may also see any lint errors in the console.
 
-npm test
+<a>npm test</a>
 Launches the test runner in the interactive watch mode.
 See the section about running tests for more information.
 
-npm run build
+<a>npm run build</a>
 Builds the app for production to the build folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
@@ -43,7 +43,7 @@ Your app is ready to be deployed!
 
 See the section about deployment for more information.
 
-npm run eject
+<a>npm run eject</a>
 Note: this is a one-way operation. Once you eject, you can't go back!
 
 If you aren't satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.
