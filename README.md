@@ -46,15 +46,15 @@ In order to further improve myself in React, I follow Adrian Hajdin's YouTube tu
 
 ![gericht_restaurant_drink](https://github.com/Mara1395/Gericht-restaurant/assets/104097778/93bd52c9-7893-4ffa-a293-a92eb66b7e70)
 
-## Languages & Tools
+## 🛠 Languages & Tools
 * React JS for building the UI
 * Tailwind CSS for styling components
 
 
-### License i Credits
+### ©️ License i Credits
 Setup provided by [JavaScript Mastery](https://github.com/adrianhajdin/).
 
-### Contact
+### ✍🏻 Contact
 Contact me on the links below:
 * <a href="mailto:jelcic.marija@gmail.com">Gmail</a>
 * [Linkedin](https://www.linkedin.com/in/marija-jel%C4%8Di%C4%87-1b958a24a)
