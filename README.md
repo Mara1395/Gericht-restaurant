@@ -29,18 +29,18 @@ In order to further improve myself in React, I follow Adrian Hajdin's YouTube tu
 
 ### Installation & Setup Instructions
 
-#### 1. Download this repository or clone it via Git using the commands below:
+#### ⚙️ 1. Download this repository or clone it via Git using the commands below:
 
     $ git clone https://github.com/Mara1395/Gericht-restaurant.git
     $ cd gericht-restaurent-website
     
-#### 2. Install `node_modules` and other dependencies:
+#### ⚙️ 2. Install `node_modules` and other dependencies:
 
     $ npm install
     $ npm install -D tailwindcss postcss autoprefixer
     $ npx tailwindcss init -p
     
-#### 3. Start the development server
+#### ⚙️ 3. Start the development server
 
     $ npm start
 
