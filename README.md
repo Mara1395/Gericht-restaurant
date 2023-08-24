@@ -20,7 +20,6 @@ In order to further improve myself in React, I follow Adrian Hajdin's YouTube tu
     <li>And at the end you'll learn how to deploy your websites to extremely fast servers and give them a custom domain name.</li>
   </ul>
 
- ![gericht_restaurant_gallery](https://github.com/Mara1395/Gericht-restaurant/assets/104097778/b186983b-90f0-4a3b-bc4e-3b0c67ff355c)
-
+ ![gericht_restaurant_gallery](https://github.com/Mara1395/Gericht-restaurant/assets/104097778/b186983b-90f0-4a3b-bc4e-3b0c67ff355c)#
 
 
