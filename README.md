@@ -12,9 +12,9 @@ In order to further improve myself in React, I follow Adrian Hajdin's YouTube tu
 Through this project I learned:
   1. React Functional components and their reusability
   
-  2.React file and folder structure
+  2. React file and folder structure
   
-  3.Fundamental CSS properties to master flex & grid
+  3. Fundamental CSS properties to master flex & grid
   -Fundamentals of the CSS BEM Model
   -From soft and pleasant animations to complex gradients
   +Perfectly placed media queries for satisfactory responsiveness covering almost devices
