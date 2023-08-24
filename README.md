@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Gericht_restaurant](https://github.com/Mara1395/Gericht-restaurant/assets/104097778/344af0ce-e927-4f0a-b27d-bd83a435df9e)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
