@@ -1,4 +1,4 @@
-![gericht_restaurant_chef](https://github.com/Mara1395/Gericht-restaurant/assets/104097778/f21c763b-486f-4263-8891-9f91abfe2f5f)# Restaurant Landing Page
+# Restaurant Landing Page
 
 This is a modern restaurant website built according to a template in figma design. This page was created using react js and tailwind css. 
 
