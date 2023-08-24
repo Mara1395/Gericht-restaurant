@@ -1,4 +1,4 @@
-# Restaurant Landing Page
+![gericht_restaurant_gallery](https://github.com/Mara1395/Gericht-restaurant/assets/104097778/2ccae7dc-6cd2-4497-9f71-81f365d5ddf7)# Restaurant Landing Page
 
 This is a modern restaurant website built according to a template in figma design. This page was created using react js and tailwind css. 
 
@@ -19,5 +19,8 @@ In order to further improve myself in React, I follow Adrian Hajdin's YouTube tu
     <li>Perfectly placed media queries for satisfactory responsiveness covering almost devices</li>
     <li>And at the end you'll learn how to deploy your websites to extremely fast servers and give them a custom domain name.</li>
   </ul>
-   
+
+ ![gericht_restaurant_gallery](https://github.com/Mara1395/Gericht-restaurant/assets/104097778/b186983b-90f0-4a3b-bc4e-3b0c67ff355c)
+
+
 
