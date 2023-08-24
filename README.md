@@ -1,7 +1,6 @@
 # Restaurant Landing Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This is a Restaurant Landing Page UI to learn how to transform a Figma design into a fully functioning website and create modern and responsive ReactJS websites.
 ![Gericht_restaurant](https://github.com/Mara1395/Gericht-restaurant/assets/104097778/344af0ce-e927-4f0a-b27d-bd83a435df9e)
 
 
