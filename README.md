@@ -44,7 +44,7 @@ In order to further improve myself in React, I follow Adrian Hajdin's YouTube tu
 
     $ npm start
 
-![gericht_restaurant_drink]()
+
 
 <img src="https://github.com/Mara1395/Gericht-restaurant/assets/104097778/93bd52c9-7893-4ffa-a293-a92eb66b7e70" alt="drink" width="600">
 
