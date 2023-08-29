@@ -51,10 +51,10 @@ In order to further improve myself in React, I follow Adrian Hajdin's YouTube tu
 * Tailwind CSS for styling components
 
 
-### ©️ License i Credits
+## ©️ License i Credits
 Setup provided by [JavaScript Mastery](https://github.com/adrianhajdin/).
 
-### ✍🏻 Contact
+## ✍🏻 Contact
 Contact me on the links below:
 * <a href="mailto:jelcic.marija@gmail.com">Gmail</a>
 * [Linkedin](https://www.linkedin.com/in/marija-jel%C4%8Di%C4%87-1b958a24a)
