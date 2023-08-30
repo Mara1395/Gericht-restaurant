@@ -32,7 +32,7 @@ In order to further improve myself in React, I follow Adrian Hajdin's YouTube tu
 #### ⚙️ 1. Download this repository or clone it via Git using the commands below:
 
     $ git clone https://github.com/Mara1395/Gericht_restaurant.git
-    $ cd gericht-restaurent-website
+    $ cd gericht-restaurant-website
     
 #### ⚙️ 2. Install `node_modules` and other dependencies:
 
